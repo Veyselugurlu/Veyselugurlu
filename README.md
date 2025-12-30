@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi 👋, I'm Veysel Ugurlu
+I have worked on web, desktop, and mobile projects, but currently, I'm focusing on improving myself in mobile app development. You can find the mobile applications that I developed with Flutter and Kotlin in my repositories.
 
-<!--
-**Veyselugurlu/Veyselugurlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Flutter and Kotlin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about Flutter
+
+📫 How to reach me veyselugurluuuu@gmail.com
+
+Connect with me:
+https://www.linkedin.com/in/veysel-uğurlu-aa1809258/
+
+Languages and Tools:
+bootstrap c codeigniter csharp css3 dart firebase flutter html5 java javascript kotlin mssql mysql php postman python sqlite
