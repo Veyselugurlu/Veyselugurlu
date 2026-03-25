@@ -2,7 +2,7 @@
 
 I have worked on web, desktop, and mobile projects, but currently, I'm focusing on improving myself in mobile app development. In fact, one of my apps is currently in the testing phase on the Play Store. You can find the mobile applications that I developed with Flutter and Kotlin in my repositories.
 
-- 🌱 I’m currently learning **Flutter and Kotlin, Java**
+- 🌱 I’m currently learning **Flutter and Kotlin, Java** and QA . 
 - 💬 Ask me about **Flutter or Every thing**
 - 📫 How to reach me: **veyselugurluuuu@gmail.com**
 
